@@ -7,7 +7,7 @@ I've been fortunate to gain experience in a wide range of industries, including 
 
 - My passion for an active lifestyle extends to a variety of sports, including golf, football, and padel, as well as a dedication to regular exercise. Additionally, I find joy in capturing the beauty of nature through photography
 
-- Link to my showcase [Portfolio] (https://github.com/jmilla01/Joaquin-Millan-Portfolio)
+- Link to my showcase [Portfolio](https://github.com/jmilla01/Joaquin-Millan-Portfolio)
 
 - [More About me](https://www.linkedin.com/in/jmillanlanhozo/)
 
