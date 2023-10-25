@@ -13,11 +13,11 @@ I've been fortunate to gain experience in a wide range of industries, including 
 
 
 
-##### <h1> TECH SKILLS <h1> 
+##### <h1> TECH SKILLS 
 
 Python, RStudio, SQL, Stremlit, Power BI, Tableau, Data Analytics, Data Scientist, Machine Learning, Google Cloud Platform, Azure, Excel, Word, Power Point, Outlook.
 
-##### <h1> SOFT SKILLS <h1>
+##### <h1> SOFT SKILLS 
 
 Leadership, Communicative, Colaborative.
 
